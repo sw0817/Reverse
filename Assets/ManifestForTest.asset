@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23720096ebad012489fb3db6e44e0a4c, type: 3}
+  m_Name: ManifestForTest
+  m_EditorClassIdentifier: 
+  Brushes:
+  - {fileID: 11400000, guid: 79aad858cfe754d4bad6bb41091669d5, type: 2}
+  Environments:
+  - {fileID: 11400000, guid: 5effa9d950f0f5943b60c7dd24471505, type: 2}
+  - {fileID: 11400000, guid: e493bfb624088664d89bd40212d93d4b, type: 2}
+  - {fileID: 11400000, guid: 68580816dd857264f9e48f299f24246a, type: 2}
+  - {fileID: 11400000, guid: a470d3298973f6848ad5c2715bad928b, type: 2}
+  - {fileID: 11400000, guid: 1ff166f5345466342ab1e14a0cf52810, type: 2}
+  - {fileID: 11400000, guid: 24d7b035c52552044a992efb353487f4, type: 2}
+  - {fileID: 11400000, guid: 95fb135d1a8f10a439edaadbeeebfebf, type: 2}
+  - {fileID: 11400000, guid: 498198474faa42846b3e333748264914, type: 2}
+  - {fileID: 11400000, guid: 0cac14d8dc99d284399801234e09c026, type: 2}
+  - {fileID: 11400000, guid: c1b260b015c6b0a479c50dee029cc5bc, type: 2}
+  - {fileID: 11400000, guid: a2472d544dd1bfd4c8f3288f9f7ee108, type: 2}
+  - {fileID: 11400000, guid: b42b208b245c1d34fabaf181763cd256, type: 2}
+  CompatibilityBrushes: []

@@ -1,0 +1,3 @@
+Space Robot Kyle example asset is courtesy of Unity Technologies.
+Package can be obtained directly from the asset store or https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696
+
